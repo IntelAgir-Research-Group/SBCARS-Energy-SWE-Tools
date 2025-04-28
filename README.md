@@ -1,6 +1,12 @@
 # SBCARS-Energy-SWE-Tools
 Replication repository of the paper submitted to SBCARS 2025 (Tools for Measuring Energy Consumption of Software)
 
+## 👥 Researchers Involved
+This study was conducted by members of the Intel Agir Research Group, under the supervision of Professor Michel Albonico.
+
+- [Michel Albonico](https://michelalbonico.github.io) (Professor at Federal Technological University of Paraná)
+- [Manuela Bechara](https://github.com/binbaragi) (Scholarship holder at the Federal Technological University of Paraná)
+  
 ## 📂 Repository Organization
 
 The scripts and files in this package are organized as follows:
