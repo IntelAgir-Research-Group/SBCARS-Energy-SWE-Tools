@@ -6,9 +6,10 @@ TOKEN = os.environ.get("GITHUB_TOKEN")
 
 url = "https://api.github.com/search/repositories"
 
+# Suas duas queries
 queries = [
-    "energy measure is:public archived:false",
-    "power measure is:public archived:false"
+    "energy measure is:public pushed:>2024-01-01 archived:false",
+    "power measure is:public pushed:>2024-01-01 archived:false"
 ]
 
 headers = {
